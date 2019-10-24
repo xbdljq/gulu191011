@@ -37,8 +37,14 @@
 
  ### 1、自动化测试
  - 使用 Karma + Mocha做单元测试
+ - 做完一系列操作后，运行 npm run test
+ - 去缓存  rm -rf .cache dist
+ - mac 命令行指标快速到最左边 commmand+ 左健
+ - npx parcel build test/* --no-cache --no-minify  打包
+ - npm run dev-test
 
-### 2、持续集成
+### 2、使用TravisCI做持续集成
+
 
 ### 3、重写所有的代码
 
