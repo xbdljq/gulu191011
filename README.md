@@ -44,6 +44,7 @@
  - npm run dev-test
 
 ### 2、使用TravisCI做持续集成
+- https://www.travis-ci.org   登陆
 
 
 ### 3、重写所有的代码
